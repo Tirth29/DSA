@@ -44,5 +44,4 @@ int main()
     cout << ar.add()<<endl;
     arrithmatic<float> arr(1.5,1.2);
     cout << arr.add()<<endl;
-
 }

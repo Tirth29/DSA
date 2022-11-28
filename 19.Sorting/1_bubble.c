@@ -7,6 +7,7 @@
     *x = *y;
     *y = temp;
 }
+
 void Bubble(int A[], int n)
 {
     int i, j, flag = 0;
